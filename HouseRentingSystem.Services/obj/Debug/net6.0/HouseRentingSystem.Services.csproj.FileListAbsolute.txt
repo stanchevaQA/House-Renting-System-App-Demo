@@ -1,0 +1,12 @@
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+D:\12-Continuous-Integration-II-Resources\12-Continuous-Integration-II-Resources\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
